@@ -1,0 +1,13 @@
+#view-container{
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+}
+
+#view-space{
+  flex: 1;
+}
+
+.mosaic-window-toolbar{
+  display: none !important;
+}
